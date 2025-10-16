@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -131,7 +130,7 @@
 <body>
     <div class="top-menu">
         <a href="https://www.scottishpublicschoolkatihar.com/index.html" target="_blank">Home</a>
-        <a href="http://127.0.0.1:3000/exp.htm" target="_blank">About Us</a>
+        <a href="http://127.0.0.1:3000/exp2.htm" target="_blank">About Us</a>
         <a href="https://www.scottishpublicschoolkatihar.com/Achievement.html" target="_blank">Top Performers</a>
         <a href="https://scottishktr.edvein.com/register" target="_blank">Admission</a>
     </div>
